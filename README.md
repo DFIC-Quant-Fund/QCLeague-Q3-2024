@@ -9,7 +9,7 @@ TODO: Fix requirements list
 
 To run:
 
-1. Clone repo and initialize a virtual environment
+1. Clone repo and initialize a virtual environment (Python 12 users might encounter some errors, please run these codes under Python 11 or below)
 
 2. Run:
 
