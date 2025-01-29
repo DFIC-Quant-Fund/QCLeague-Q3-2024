@@ -2,7 +2,7 @@
 from AlgorithmImports import *
 # endregion
 
-class wrapper(QCAlgorithm):
+class wrapper(QCAlgorithm): #adjusted
 
     def Initialize(self):
         self.SetStartDate(2023, 12, 10)
