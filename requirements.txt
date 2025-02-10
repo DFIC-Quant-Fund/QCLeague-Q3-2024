@@ -42,6 +42,7 @@ pytz==2024.2
 pyzmq==26.2.0
 requests==2.31.0
 scipy==1.7.3
+seaborn==0.12.2
 six==1.16.0
 soupsieve==2.4.1
 statsmodels==0.13.5
